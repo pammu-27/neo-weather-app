@@ -1,0 +1,13 @@
+```
+     # Ignore temporary files
+     *.log
+     *.tmp
+
+     # Ignore OS-specific files
+     .DS_Store
+     Thumbs.db
+
+     # Ignore sensitive files
+     .env
+     node_modules/
+     ```
